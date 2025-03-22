@@ -1,6 +1,8 @@
 Task 1/dataset/
-Task 2/data/
+Task 2/dataset/
 Task 3/Dataset/
+Task 4/dataset/
 Task 1/task_1_weights.pth
-Task 2/checkpoints_epoch14.pth
+Task 2/task_2_weights.pth
 Task 3/task_3a_weights.pth
+Task 4/task_4_weights.pth
