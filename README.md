@@ -33,11 +33,11 @@ My plan was to use state-of-the-art image classification neural networks pretrai
   <tr>
     <td>
       <table>
-        <tr><th>Model</th><th>Accuracies</th></tr>
-        <tr><td>AlexNet</td><td>List all new or modified files</td></tr>
-        <tr><td>VGGNet</td><td>Show file differences that haven't been staged</td></tr>
-        <tr><td>ResNet-18</td><td>Show file differences that haven't been staged</td></tr>
-        <tr><td>ViT-b-16</td><td>Show file differences that haven't been staged</td></tr>
+        <tr><th>Model</th><th>Training Accuracy</th></tr>
+        <tr><td>AlexNet</td><td>32.79 %</td></tr>
+        <tr><td>VGGNet-16</td><td>34.56 %</td></tr>
+        <tr><td>ResNet-18</td><td>99.04 %</td></tr>
+        <tr><td>EfficientNet-B7</td><td>94.86 %</td></tr>
       </table>
     </td>
     <td>
@@ -52,7 +52,7 @@ My plan was to use state-of-the-art image classification neural networks pretrai
   </tr>
 </table>
 
-ResNet-18 with pretrained weights achieved the best results with a training accuracy of **99.04%** with 30 iterations of training (18 minutes 30 seconds)
+ResNet-18 with weights pretrained on ImageNet achieved the best results with a training accuracy of **99.04%** with 30 iterations of training (18 minutes 30 seconds)
 
 ![roc_auc](https://github.com/user-attachments/assets/36e3d7bf-e554-414f-a754-a43235347099)
 
