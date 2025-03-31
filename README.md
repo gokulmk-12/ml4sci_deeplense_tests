@@ -56,15 +56,7 @@ ResNet-18 with weights pretrained on ImageNet achieved the best results with a t
 
 ![roc_auc](https://github.com/user-attachments/assets/36e3d7bf-e554-414f-a754-a43235347099)
 
-## 2) Specific Test: Diffusion Models
-- **Goal**: A generative model to simulate realistic strong gravitational lensing images
-- **Evaluation**: FID
-- **Library**: torch, torchvision, sklearn
-- **Specific Reference**: [Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239)
-  
-### Plan & Results
-
-## 3) Specific Test: Image Super Resolution
+## 2) Specific Test: Image Super Resolution
 - **Goal**: A deep learning model to upscale low-resolution strong lensing images
 - **Evaluation**: MSE, SSIM, PSNR
 - **Library**: torch, torchvision, sklearn
@@ -131,6 +123,21 @@ This task focused on training a super-resolution neural network with a limited d
 
 ![task_3b_eval](https://github.com/user-attachments/assets/b2085ec8-c90f-42e1-bde9-6e9c070dc069)
 
+## 3) Specific Test: Diffusion Models
+- **Goal**: A generative model to simulate realistic strong gravitational lensing images
+- **Evaluation**: FID
+- **Library**: torch, torchvision, sklearn
+- **Specific Reference**: [Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239)
+  
+### Plan & Results
+
+## 4) Specific Test: Lens Finding
+- **Goal**: A model to identify lenses from the given image.
+- **Evaluation**: ROC, AUC Curve
+- **Library**: torch, torchvision, sklearn
+- **Specific Reference**: [Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239)
+  
+### Plan & Results
 
 
 
