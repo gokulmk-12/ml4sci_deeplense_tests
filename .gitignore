@@ -5,7 +5,9 @@ Task 3b/Dataset/
 Task 4/dataset/
 Task 1/task_1_weights.pth
 Task 2/task_2_weights.pth
+Task 2/task_2_gan_weights.pth
 Task 3a/task_3a_weights.pth
 Task 3b/task_3a_weights.pth
 Task 3b/task_3b_weights.pth
 Task 4/task_4_weights.pth
+Task 4/best_task_4_weights.pth
