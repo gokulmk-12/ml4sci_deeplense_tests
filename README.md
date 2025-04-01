@@ -25,6 +25,7 @@ Hi, I’m Gokul, a Dual Degree student in Engineering Design with a specializati
 - **Evaluation**: ROC Curve, AUC
 - **Library**: torch, torchvision, sklearn
 - **Specific Reference**: [Deep Learning the Morphology of Dark Matter Substructure](https://iopscience.iop.org/article/10.3847/1538-4357/ab7925)
+- **Dataset**: https://drive.google.com/file/d/1hfWsvQRhDGq6Hi1ZAYppfzwMm05PLJM_/view?usp=sharing
 
 ### Plan & Results
 My plan was to use state-of-the-art image classification neural networks pretrained on imagenet. The table below provides the list of models used, and their corresponding hyperparameters and accuracies.
@@ -61,6 +62,8 @@ ResNet-18 with weights pretrained on ImageNet achieved the best results with a t
 - **Evaluation**: MSE, SSIM, PSNR
 - **Library**: torch, torchvision, sklearn
 - **Specific Reference**: [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/pdf/1603.08155)
+- **Dataset 3A**: https://drive.google.com/file/d/1X3L4TVrIJr_SkV9aY6wQOHZnjD7zpDym/view?usp=sharing
+- **Dataset 3B**: https://drive.google.com/file/d/1frpy27XgbBi4QPfK9TGKUwigAWH71ET3/view?usp=sharing
 
 ### Plan & Results
 #### Task 3A
