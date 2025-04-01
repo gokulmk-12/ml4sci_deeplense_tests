@@ -135,7 +135,6 @@ This task focused on training a super-resolution neural network with a limited d
 - **Goal**: A model to identify lenses from the given image.
 - **Evaluation**: ROC, AUC Curve
 - **Library**: torch, torchvision, sklearn
-- **Specific Reference**: [Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239)
   
 ### Plan & Results
 
